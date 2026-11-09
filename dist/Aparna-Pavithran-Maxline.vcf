@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Pavithran;Aparna;;;
+FN:Aparna Pavithran
+ORG:Maxline LLC
+TITLE:Sales Executive
+TEL;TYPE=CELL,VOICE:+971564331857
+item1.TEL;TYPE=WORK,VOICE:+97142822022
+item1.X-ABLabel:Office
+item2.TEL;TYPE=WORK,VOICE:+97142822023
+item2.X-ABLabel:Warehouse
+EMAIL;TYPE=INTERNET,WORK:sales10@maxlineglobal.com
+URL:https://maxlineglobal.com/en
+END:VCARD

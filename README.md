@@ -1,3 +1,3 @@
-# Aparna — Maxline e-card
+# aparna — Maxline e-card
 
-Deploy the static card from this repository root using Vercel. The output folder is `dist`.
+Deploy from the repository root on Vercel. The static output directory is `dist`.
